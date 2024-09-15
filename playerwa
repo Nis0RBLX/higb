@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:WaitForChild("",math.huge)
+game.ReplicatedStorage:WaitForChild("Effects")
