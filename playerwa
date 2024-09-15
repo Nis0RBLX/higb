@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:WaitForChild("")
+game.Players.LocalPlayer:WaitForChild("",math.huge)
